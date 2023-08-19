@@ -6,7 +6,7 @@ export default function Networks() {
     return (
         <div className="containerNet">
             <div className="email">
-                <h1>e-mail para contato: <span>samuelmonteee@gmail.com</span></h1>
+                <h1>samuelmonteee@gmail.com</h1>
             </div>
                 <div className="networksIcon">
                 <a href="https://www.linkedin.com/in/samuel-monte-742665227/">
