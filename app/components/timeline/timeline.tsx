@@ -11,7 +11,7 @@ return (
             <div className="timeline-circle"></div>
         </div>
         <div className="timeline-component timeline-content">
-        <h3>Experiência 2</h3>
+        <h3>Flexdoc</h3>
         <span>2023 - Atual</span>
             <p>A Flexdoc é uma empresa sediada em Brasília/DF, com atuação nacional, focada no desenvolvimento de soluções inovadoras e no fornecimento de serviços técnicos especializados, direcionados para a automação de fluxos de negócios, processamento de dados, e gestão documental, atuando desde a instalação e implantação das tecnologias até produção, digitalização, extração, tramitação, controle e disponibilização da informação com tecnologias no estado-da-arte.</p>
             <p>Competências: Auxílio na implantação e Gestão de Ambientes Windows Server, ambientes Linux, auxílio ao usuário, realização de manutenções preventivas, acompanhamento de chamados e documentação de projetos</p>
