@@ -1,0 +1,53 @@
+.containerProjects {
+    display: flex;
+    position: relative;
+    justify-content: center;
+    height: 100%;
+    margin-top: 50%;
+    flex-direction: column;
+}
+
+.containerProjects h1 {
+    color: aliceblue;
+    align-self: center;
+}
+
+.projectDiv {
+    display: flex;
+    margin-top: 20px;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.project {
+    display: flex;
+    height: 150px;
+    margin: 10px;
+    width: 500px;
+    border-radius: 30px;
+    background-color: #f0f0f0(165, 135, 135);
+    border: 1px solid #ccc;
+}
+
+.projectDiv a {
+    position: relative;
+}
+
+.projectDiv img {
+    position: absolute;
+    margin: 50px 30px;
+}
+
+.projectDiv span {
+    color: aliceblue;
+    position: absolute;
+    margin: 58px 60px;
+    font-size: 20px;
+}
+
+.projectDiv p {
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 35px;
+}

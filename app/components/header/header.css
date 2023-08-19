@@ -1,0 +1,33 @@
+.mainHero {
+    display: flex;
+    height: 100vh;
+    margin-bottom: 20%;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.mainHero h1, h2 {
+    margin: 0px;
+}
+
+.containerCenter {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.photo {
+    position: relative;
+    transition: transform 250ms;
+    margin: 20px 0px;
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+}
+
+.photo:hover {
+    transform: scale(1.2);
+    transition: translateY(-10px);
+}

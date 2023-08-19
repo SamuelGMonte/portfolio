@@ -1,0 +1,55 @@
+.containerCert {
+    display: flex;
+    position: relative;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+    margin-top: 50%;
+}
+
+
+.divCerts {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.cardCert {
+    margin-top: 30px;
+    border-radius: 5px;
+    margin-left: 30px;
+    height: 250px;
+    box-shadow: 5px 5px 10px #1a1a1a, -5px -5px 10px #242424;
+    background-color: #f0f0f0(165, 135, 135);
+    border: 1px solid #ccc;
+    width: 250px;
+}
+
+.cardCert h2 {
+    margin: 1rem 0px;
+    padding: 10px;
+    text-align: center;
+    color: aliceblue;
+    font-size: 20px;
+}
+
+.containerCert h1 {
+    color: aliceblue;
+}
+
+.cardCert p {
+    text-align: start;
+    margin: 0 30px;
+    font-size: 14.5px;
+    color: aliceblue;   
+}
+
+.cardCert a {
+    color: rgb(34, 124, 202);   
+}
+
+.redes {
+    height: 60px;
+}

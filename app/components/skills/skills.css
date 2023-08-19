@@ -1,0 +1,92 @@
+.containerSkill {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    flex-direction: column;
+    margin-top: 50%;
+    height: 100%;
+}
+
+.cards {
+    display: flex;
+    border-radius: 5px;
+    flex-direction: row;
+    align-items: center;
+    text-align: center;
+    margin-top: 20px;
+    flex-wrap: wrap;
+}
+
+img {
+    position: absolute;
+    bottom: 10%;
+}
+
+
+.pythonimg {
+    width: 80px;
+}
+
+
+
+.cssimg{
+    position: absolute;
+    top: 44%;
+}
+
+
+.cardSkill p {
+    position: absolute;
+    color: aliceblue;
+    font-size: 20px;
+    margin-bottom: 3.5rem;
+}
+
+
+.cardSkill {
+    position: relative;
+    display: flex;
+    height: 120px;
+    width: 120px;
+    box-shadow: 5px 5px 10px #1a1a1a, -5px -5px 10px #242424;
+    background-color: #f0f0f0(165, 135, 135);
+    border: 1px solid #ccc;
+    margin: 10px;
+    justify-content: center;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    align-items: center;
+    transition: 0.3s;
+    border-radius: 20px;
+    transition: transform 250ms;
+}
+
+
+.cardSkill:hover {
+    transform: scale(1.2);
+    transition: translateY(-10px);
+}
+
+.containerSkill h1 {
+    color: aliceblue;
+    align-self: center;
+}
+
+
+.cards {
+    display: flex;
+    justify-content: center;
+}
+
+.cardSkill:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+
+
+
+.starCent {
+    position: relative;
+    margin: 0 10px;
+    top: -60px;
+    right: 10px;
+}
