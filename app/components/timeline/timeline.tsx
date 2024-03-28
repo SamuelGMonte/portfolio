@@ -10,7 +10,7 @@ return (
             <span>2024 - Atual</span>
             <p>Judge.me é uma empresa que fornece soluções de avaliação e análise de produtos para lojas online e e-commerce. Oferecendo um serviço de revisões de produtos que os comerciantes podem integrar em seus sites para coletar e exibir comentários de clientes sobre os produtos que vendem. Essas revisões podem ajudar os consumidores a tomar decisões de compra informadas e também podem ajudar as empresas a melhorar a qualidade de seus produtos e serviços com base no feedback dos clientes.</p>
             <p>Competências: Atendimento ao cliente · Comunicação em geral · Instalações do App em sites Shopify e WordPress. · Rich Snippets </p>
-            <p>Customer Support Agent</p>
+            <p>Cargo: Customer Support Agent</p>
 
         </div>
 
